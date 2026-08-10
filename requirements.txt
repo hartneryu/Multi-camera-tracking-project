@@ -1,0 +1,10 @@
+numpy
+opencv-python
+scipy
+ultralytics
+torchreid
+gdown
+tensorboard
+loguru
+tabulate
+scikit-image
